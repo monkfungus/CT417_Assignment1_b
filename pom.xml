@@ -17,7 +17,7 @@
     <dependency>
       <groupId>com.github.monkfungus</groupId>
       <artifactId>CT417_Assignment1_a</artifactId>
-      <version>0f3e2d5</version>
+      <version>4b2faf7</version>
     </dependency>
   </dependencies>
   <repositories>
